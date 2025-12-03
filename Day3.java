@@ -1,4 +1,4 @@
-// Function calling from main
+// Function calling from main.
 class Day3{
     // static int a=5;
     void sum(int a){
@@ -11,3 +11,4 @@ class Day3{
     obj.sum(5);
     }
 }
+
