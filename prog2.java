@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-class Day2{
+class prog2{
     public static void main(String[] args) {
   // --> String's in built functions..
         String str="hello java";
@@ -22,4 +22,5 @@ class Day2{
         System.out.println(str1.equals(str2));
 
     }
+
 }
