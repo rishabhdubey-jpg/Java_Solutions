@@ -1,5 +1,5 @@
 // Function calling from main.
-class Day3{
+class Prog3{
     // static int a=5;
     void sum(int a){
         System.out.println("hello");
@@ -11,4 +11,5 @@ class Day3{
     obj.sum(5);
     }
 }
+
 
